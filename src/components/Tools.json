@@ -1,0 +1,26 @@
+[
+    {
+        "id":"3",
+        "title":"Python",
+        "type":"General - Purpose",
+        "description":"Python is known for its simple syntax and readability. In back-end development, it’s commonly used with frameworks like Django and Flask to build powerful and maintainable web applications. and A versatile, beginner-friendly programming language used in web development, data analysis, AI, and automation.",
+        "days":"40 - 100 / days"
+
+    },
+    {
+        "id":"4",
+        "title":"PHP",
+        "type":"Server - Side Scripting language ",
+        "description":"PHP is one of the oldest and most widely used languages for back-end development. It powers many websites, including WordPress. It’s easy to learn and works well with databases like MySQL A server-side scripting language mainly used for building dynamic websites and working with databases.",
+        "days":"100 - 200 / days"
+
+    },
+    {
+        "id":"5",
+        "title":"Node.Js",
+        "type":"Runtime - Environment",
+        "description":"Node.js is a back-end JavaScript runtime that allows developers to run JavaScript on the server. It’s fast, scalable, and perfect for building APIs and real-time applications like chat apps or live updates. A JavaScript runtime environment that allows running JavaScript on the server-side. It’s used to build scalable, fast, and efficient backend services and APIs.",
+        "days":"100 - 250"
+
+    }
+]

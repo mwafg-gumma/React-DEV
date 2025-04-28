@@ -1,0 +1,81 @@
+[
+    {
+        "id":"1",
+        "title":"HTML - FRONT",
+        "description":" HTML is The Foundation of every Web Page. it defines The Structure and Content using Element Like Heading, Paragraphs, images, list,and links. Think of it as The building blocks that give a webpage its skeleton, Without HTML The browser wouldn't know what to display The standard markup language for creating the structure of web pages (headings, paragraphs, images, links).",
+        "type":"(HyperText Markup Language)",
+        "days":" 10 - 25 / Days"
+
+    },
+    {
+        "id":"2",
+        "title":"CSS - FRONT ",
+        "description":"CSS what makes a website Look good. it controls That layout , color, Fonts, Spacing, and Responsiveness of page, With css You cna design beautiful user InterFace That Work across All Screen Size. it Separates content (HTML) from design, Making it easier to manage Styles. Used for styling HTML elements — controls layout, colors, fonts, and responsiveness. controls layout,",
+        "type":"(Cascading Style Sheets)",
+        "days":"25 - 35 / Days"
+
+    },
+    {
+        "id":"3",
+        "title":"JAVASCRIPT",
+        "description":"JavaScript is what makes a website dynamic and interactive. It allows you to add behavior to your pages — like handling button clicks, updating content without reloading, form validation, animations, and much more. JavaScript is a powerful language that runs in the browser and brings your pages to . and A programming language that adds interactivity to web pages (click events, animations, dynamic content).",
+        "type":"Programming Languages",
+        "days":"20 - 50 / Days"
+
+    },
+    {
+        "id":"3",
+        "title":"Python",
+        "type":"General - Purpose",
+        "description":"Python is known for its simple syntax and readability. In back-end development, it’s commonly used with frameworks like Django and Flask to build powerful and maintainable web applications. and A versatile, beginner-friendly programming language used in web development, data analysis, AI, and automation.",
+        "days":"40 - 100 / days"
+
+    },
+    {
+        "id":"4",
+        "title":"PHP",
+        "type":"Server - Side Scripting language ",
+        "description":"PHP is one of the oldest and most widely used languages for back-end development. It powers many websites, including WordPress. It’s easy to learn and works well with databases like MySQL A server-side scripting language mainly used for building dynamic websites and working with databases.",
+        "days":"100 - 200 / days"
+
+    },
+    {
+        "id":"5",
+        "title":"Node.Js",
+        "type":"Runtime - Environment",
+        "description":"Node.js is a back-end JavaScript runtime that allows developers to run JavaScript on the server. It’s fast, scalable, and perfect for building APIs and real-time applications like chat apps or live updates. A JavaScript runtime environment that allows running JavaScript on the server-side. It’s used to build scalable, fast, and efficient backend services and APIs.",
+        "days":"100 - 250"
+
+    },
+    {
+        "id":"6",
+        "title":"Bootstrap",
+        "description":"Bootstrap is a front-end framework that provides ready-made components and styles like buttons, Navbar, grids, and more. It helps developers build responsive websites quickly using pre-designed classes",
+        "type":"CSS Framework",
+        "days":"1 - 4 / Hours"
+
+    },
+    {
+        "id":"7",
+        "title":"Tailwind",
+        "description":"Tailwind is a modern CSS framework based on utility classes. Instead of using predefined components, you build custom designs by combining small utility classes like p-4, text-center, or bg-red-500. It gives more control and flexibility over design.",
+        "type":"Utility-First CSS Framework",
+        "days":"1 - 5 / Hours"
+    },
+    {
+        "id":"8",
+        "title":"Git",
+        "days":" 1 -6 / Hours",
+        "type":"Tools",
+        "description":"Git is a tool used by developers to track changes in their code over time. It allows teams to collaborate, manage different versions of code, and roll back to previous states if needed. It’s a command-line tool that works locally on your machine."
+
+    },
+    {
+        "id":"9",
+        "title":"GitHub",
+        "days": "1 - 3 / Hours",
+        "description":"GitHub is an online platform where you can store your Git repositories in the cloud. It makes it easier to share your code, collaborate with others, review changes, and even deploy projects. It also offers features like issues, pull requests, and project boards.",
+        "type":"Tools"
+
+    }
+]
