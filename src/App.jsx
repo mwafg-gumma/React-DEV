@@ -28,7 +28,10 @@ const router = createBrowserRouter(
       <Route path="Full" element={<FullStack />} />
       <Route path="Back" element={<BackList />} />
     </Route>
-  )
+  ),
+  {
+    basename : '/DEV-CONNECT'
+  }
 );
 
 const App = () => {
