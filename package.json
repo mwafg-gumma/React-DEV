@@ -1,15 +1,16 @@
 {
   "name": "react-file",
+  "Homepage": "https://mwafg-gumma.github.io/React-DEV",
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "HomePage": "https://mwafg-gumma.github.io/React-Router",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview",
-    "deploy": "gh-pages -d build"
+    "predeploy": "npm run build",
+    "deploy":"gh-pages -d dist"
   },
   "dependencies": {
     "gh-pages": "^6.3.0",
