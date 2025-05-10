@@ -29,6 +29,9 @@ const router = createBrowserRouter(
       <Route path="Back" element={<BackList />} />
     </Route>
   ),
+  {
+    basename:"/React-DEV",
+  }
 
 );
 
